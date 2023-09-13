@@ -1,0 +1,2 @@
+## Introduction
+This is a repo for a implementation of the SHA-256 algorithm in System-Verilog. It takes in a string of chars and integers and is able to encrypt it. Similiarly thr bitcoin hash algorithm is able to decrypt it.
