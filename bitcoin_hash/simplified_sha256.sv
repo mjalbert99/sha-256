@@ -9,10 +9,6 @@ module simplified_sha256(
 // FSM state variables 
 enum logic [2:0] {IDLE, READ, BLOCK, COMPUTE, WRITE, DONE} state;
 
-// NOTE : Below mentioned frame work is for reference purpose.
-// Local variables might not be complete and you might have to add more variables
-// or modify these variables. Code below is more as a reference.
-
 // Local variables
 logic [31:0] w[16];
 logic [31:0] h0, h1, h2, h3, h4, h5, h6, h7;
