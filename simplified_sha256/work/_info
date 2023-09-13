@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vsimplified_sha256
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1653879256
+!i10b 1
+!s100 CAgE6R^Xme8HLREUY[B?63
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IDI0=hfhj1dWYdWUML;aRQ2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/mjalb/Desktop/Project Files/simplified_sha256
+w1653879212
+8C:/Users/mjalb/Desktop/Project Files/simplified_sha256/simplified_sha256.sv
+FC:/Users/mjalb/Desktop/Project Files/simplified_sha256/simplified_sha256.sv
+!i122 93
+L0 1 263
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1653879255.000000
+!s107 C:/Users/mjalb/Desktop/Project Files/simplified_sha256/simplified_sha256.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mjalb/Desktop/Project Files/simplified_sha256/simplified_sha256.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vtb_simplified_sha256
+R0
+R1
+!i10b 1
+!s100 >bA>PhazaCDldAR=TDHF]3
+R2
+I5oYNbQ=hAL2hB?QZ@Xm722
+R3
+S1
+R4
+w1589077758
+8C:/Users/mjalb/Desktop/Project Files/simplified_sha256/tb_simplified_sha256.sv
+FC:/Users/mjalb/Desktop/Project Files/simplified_sha256/tb_simplified_sha256.sv
+!i122 94
+L0 1 283
+R5
+r1
+!s85 0
+31
+!s108 1653879256.000000
+!s107 C:/Users/mjalb/Desktop/Project Files/simplified_sha256/tb_simplified_sha256.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mjalb/Desktop/Project Files/simplified_sha256/tb_simplified_sha256.sv|
+!i113 1
+R6
+R7

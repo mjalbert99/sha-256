@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vbitcoin_hash
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1653879915
+!i10b 1
+!s100 30=SgHeDi@lN]AWiYf^V01
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZQnhE_AJ@Z`KmDb;F2]ek2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/mjalb/Desktop/Project Files/bitcoin_hash
+w1653879666
+8C:/Users/mjalb/Desktop/Project Files/bitcoin_hash/bitcoin_hash.sv
+FC:/Users/mjalb/Desktop/Project Files/bitcoin_hash/bitcoin_hash.sv
+!i122 689
+L0 3 326
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1653879915.000000
+!s107 simplified_sha256.sv|C:/Users/mjalb/Desktop/Project Files/bitcoin_hash/bitcoin_hash.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mjalb/Desktop/Project Files/bitcoin_hash/bitcoin_hash.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vsimplified_sha256
+R0
+R1
+!i10b 1
+!s100 WJ?0BA7KBV_65ifb?f99=0
+R2
+IP^BlL[;N<J>Jeemh@9KI80
+R3
+S1
+R4
+w1653879760
+8C:/Users/mjalb/Desktop/Project Files/bitcoin_hash/simplified_sha256.sv
+FC:/Users/mjalb/Desktop/Project Files/bitcoin_hash/simplified_sha256.sv
+!i122 690
+L0 1 222
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mjalb/Desktop/Project Files/bitcoin_hash/simplified_sha256.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mjalb/Desktop/Project Files/bitcoin_hash/simplified_sha256.sv|
+!i113 1
+R7
+R8
+vtb_bitcoin_hash
+R0
+R1
+!i10b 1
+!s100 RS7MYioZZ1=^MoE4YDhTZ1
+R2
+IKWl3=n3mzclmjmaY@4YeH1
+R3
+S1
+R4
+w1575112170
+8C:/Users/mjalb/Desktop/Project Files/bitcoin_hash/tb_bitcoin_hash.sv
+FC:/Users/mjalb/Desktop/Project Files/bitcoin_hash/tb_bitcoin_hash.sv
+!i122 691
+L0 1 355
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mjalb/Desktop/Project Files/bitcoin_hash/tb_bitcoin_hash.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mjalb/Desktop/Project Files/bitcoin_hash/tb_bitcoin_hash.sv|
+!i113 1
+R7
+R8
